@@ -1,0 +1,8 @@
+{
+  "name": "writinglatex",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/DDCreationStudios/writingLaTex.git",
+  "author": "Daniel Deutsch <deudan1010@gmail.com>",
+  "license": "MIT"
+}
