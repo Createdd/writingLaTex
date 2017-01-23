@@ -6,3 +6,5 @@ Created by Daniel Deutsch (<kbd>
 </kbd>)
 
 ### Explore Writing in LaTex  [![App Progress Status](https://img.shields.io/badge/Writing%20Status-In%20Progress-0520b7.svg?style=plastic)](https://github.com/DDCreationStudios/writingLaTex)
+
+![Screenshot](https://github.com/DDCreationStudios/writingLaTex/blob/master/screenshot.png?raw=true)
